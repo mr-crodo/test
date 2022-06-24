@@ -63,7 +63,6 @@ padding-left: 20px;
     flex-basis: 50%;
 }
 button {
-    /* bela font size ile birinci defedi oz praktikamda rastlawiram cunki bu cur sheyler praktikada istifade olunmur eger ela bir shey figmada dizaynda varsa demey dizaynerde boyuk sefler var */
     font-size: 2vw;
     /* buttonlari width ve heigtnen temzimlemeyin onlari paddinglerle temzimlayin, bunu bir qayda olaraq yadinizda saxlayin eger butov blok uzre button lazimdisa width: 100% verirsiz vessalam */
     /* width: 100px;
